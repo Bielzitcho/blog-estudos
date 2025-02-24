@@ -16,7 +16,7 @@ const Navbar = () => {
             <div 
                 className="cursor-pointer text-3xl" 
                 onClick={() => setOpen((prev) => !prev)}>
-                    {open ? "X": "☰"}
+                    {open ? "V": "☰"}
             </div>
             </div>
             {/* MOBILE LINK LIST */}
